@@ -1,0 +1,24 @@
+{
+  "name": "commitlint-casing-issue",
+  "version": "1.0.0",
+  "description": "Snake case and kebab case issues for scope and subject case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s14k51/commitlint-casing-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s14k51/commitlint-casing-issue/issues"
+  },
+  "homepage": "https://github.com/s14k51/commitlint-casing-issue#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "husky": "^4.2.3"
+  }
+}
